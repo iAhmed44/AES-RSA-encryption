@@ -1,6 +1,6 @@
 # AES and RSA Encryption
 
-Python/PyQt5 desktop application recreated from the EE305 Discrete Mathematics project report at King Abdulaziz University. It follows the report's home menu and separate AES/RSA encryption and decryption screens. This is a reconstruction, not the recovered original source.
+Python/PyQt5 desktop application for EE305 Discrete Mathematics project report at King Abdulaziz University. 
 
 ## Features
 
